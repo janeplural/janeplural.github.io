@@ -1,0 +1,72 @@
+nav {
+	float: right;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover, .nav-link:hover {
+	color: blue;
+}
+
+#projects {
+	height: 65%;
+	background-color: yellow;
+	text-align: center;
+}
+
+.hide {
+	display: none;
+}
+
+.clicked {
+	color: white;
+}
+
+.nav-link {
+	display: inline;
+	height: 20px;
+	text-align: center;
+	background-color: red;
+	padding: 2%;
+	float: right;
+}
+
+#display-container {
+	width: 75%;
+	height:100%;
+	float: left;
+	background-color: red;
+}
+
+#thumbnail-container {
+	width: 25%;
+	height: 100%;
+	float: left;
+}
+
+.project-display {
+	background-color: green;
+	width: 100%;
+	height: 100%; 
+}
+
+.project-thumbnail {
+	background-color: orange;
+	width: 49%;
+	min-height: 20%;
+	float: left;
+	margin-left: 1%;
+	margin-bottom: 1%
+}
+
+.project-thumbnail:hover {
+	background-color: rgba(200, 54, 54, 0.8);
+	color: white;
+}
+
+#test-3 {
+	background-color: green;
+}
