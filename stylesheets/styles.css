@@ -95,7 +95,7 @@ a:hover, .nav-link:hover {
 }
 .project-desc h2 {
 	color: #FFFFFF;
-	font-size: x-large;
+	font-size: large;
 	line-height: 200%;
 }
 .project-desc a {
@@ -131,5 +131,9 @@ a:hover, .nav-link:hover {
 }
 #display-1 {
 	background: url('https://s3-us-west-2.amazonaws.com/pirate-arrggregator/pirarrgg_low.png') no-repeat scroll left center;
+	background-size: cover;
+}
+#display-2 {
+	background: url('https://s3-us-west-2.amazonaws.com/jhs-portfolio/ScreentestPortfolio.png') no-repeat scroll left center;
 	background-size: cover;
 }
