@@ -130,10 +130,12 @@ a:hover, .nav-link:hover {
 	float: left;
 }
 #display-1 {
-	background: url('https://s3-us-west-2.amazonaws.com/pirate-arrggregator/pirarrgg_low.png') no-repeat scroll left center;
-	background-size: cover;
+	background: url(../images/PirArrgg-portfolio.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
 #display-2 {
-	background: url('https://s3-us-west-2.amazonaws.com/jhs-portfolio/ScreentestPortfolio.png') no-repeat scroll left center;
-	background-size: cover;
+	background: url(../images/ScreenTest-portfolio.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
