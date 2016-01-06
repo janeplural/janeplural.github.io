@@ -1,0 +1,23 @@
+.nav-wrapper { padding-left: 15px; }
+.brand-logo { font-weight: bold; }
+.brand-logo span { font-size: 1rem;}
+@media only screen and (min-width: 601px) {
+  nav .nav-wrapper i.fa-lg { display: block; }
+}
+.project img { 
+  margin-top: 1.78rem;
+  width: 100%;
+}
+.project h2 {
+  font-size: 1.56rem;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.project a { margin-right: 1rem; }
+.home-intro { font-size: 3.56rem}
+#intro-feed { 
+  text-transform: capitalize;
+  font-size: 3.56rem;
+  color: #000;
+  }
+  .margin-helper { margin-top: 20%; }
