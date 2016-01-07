@@ -1,3 +1,4 @@
+body { background: url("../images/ignasi_pattern_s.png"); } // by Ignasi Àvila Padró from subtlepatterns(dot)com
 .nav-wrapper { padding-left: 15px; }
 .brand-logo { font-weight: bold; }
 .brand-logo span { font-size: 1rem;}
@@ -19,5 +20,11 @@
   text-transform: capitalize;
   font-size: 3.56rem;
   color: #000;
-  }
-  .margin-helper { margin-top: 20%; }
+}
+.margin-helper { margin-top: 20%; }
+#bg-img-src { 
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin-right: 15px;
+}
